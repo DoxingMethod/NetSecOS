@@ -1,5 +1,8 @@
 # NetSecOS
 Basic Home-made operating System
+Unfortunitly, I can't upload the files here, as Github does not allow the file types etc.
+I'll put the direct download here:
+
 
 # Info
 

@@ -1,7 +1,7 @@
 # NetSecOS
 Basic Home-made operating System
 Unfortunitly, I can't upload the files here, as Github does not allow the file types etc.
-I'll put the direct download here:
+I'll put the direct download here sometime when bugs are all fixed.
 
 
 # Info
@@ -17,3 +17,8 @@ Multi IDE program accessible via Browser and Phone.
 
 # Just a note.
 Sorry for not uploading much, I've been busy with college etc.
+
+# NetSecOS Partners
+
+ForcideNetwork - Forcide.pw
+DeltaPvPNetwork - Deltapvp.net
